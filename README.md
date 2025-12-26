@@ -19,7 +19,7 @@ Projeto de automação residencial com ESP32 que lê temperatura, umidade (DHT22
 ## 📋 Requisitos
 
 Hardware
-- ESP32 (ou similar)
+- ESP32
 - Sensor DHT22
 - LDR + resistor para divisor de tensão
 - Relés/transistores para controlar ventilador e luz (ou LEDs para testes)
