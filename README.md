@@ -60,7 +60,7 @@ const char* DEVICE_ID = "device_001"; // Identificador do dispositivo
 
 ---
 
-## 🔁 Estrutura esperada no Firebase (exemplo inicial criado pelo sketch)
+## 🔁 Estrutura esperada no Firebase
 
 ```json
 {
