@@ -106,6 +106,14 @@ const char* DEVICE_ID = "device_001"; // Identificador do dispositivo
   }
 }
 ```
+> Observação: Para testes rápidos, ajuste as regras do Realtime Database para permitir leitura/escrita (não recomendado em produção). Exemplo mínimo de regra para testes:
+>
+> {
+>   "rules": {
+>     ".read": true,
+>     ".write": true
+>   }
+> }
 
 ---
 
